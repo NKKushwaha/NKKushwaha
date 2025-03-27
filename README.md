@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NKKushwaha" alt="NKKushwaha" /></a> </p>
 
-- <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/4b38a8c7-dd8d-4199-9eec-cb4ac20414d6" width="35">&nbsp; I’m currently learning **AWS, BOTO3**
+- <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/4b38a8c7-dd8d-4199-9eec-cb4ac20414d6" width="35">&nbsp; I’m currently learning **AWS, Boto3**
 
 -  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/baf52aa6-ff71-412d-9607-db8feb17874b" width="35">&nbsp;  Ask me about **Python, SQL, Django, HTML, CSS, JavaScript**
 
