@@ -37,9 +37,12 @@
 </p>
 <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NKKushwaha&show_icons=true&locale=en&layout=compact" alt="NKKushwaha"/></p>
+<p>
+  <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NKKushwaha&langs_count=8" alt="NKKushwaha"/>
+  <img  src="https://github-readme-stats.vercel.app/api?username=NKKushwaha&show_icons=true&locale=en" alt="NKKushwaha"/>
+</p>
 <br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=NKKushwaha&show_icons=true&locale=en" alt="NKKushwaha"/></p>
-<p> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NKKushwaha&" alt="NKKushwaha" /></p>
-
-
+<hr>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=NKKushwaha&repo=ckumar" alt="NKKushwaha"/>
+</p>
